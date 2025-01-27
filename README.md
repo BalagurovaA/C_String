@@ -6,7 +6,7 @@ Implementation of the string.h library with additions
 ## Содержание
 - [Обзор некоторых функций "string.h"](#обзор-библиотеки-stringh)
     - [string.h Типы](#stringh-типы)
-    - [string.h Типы](#stringh-функции)
+    - [string.h Функции](#stringh-функции)
     - [sprintf](#sprintf) 
     - [sprintf Спецификаторы](#sprintf-спецификаторы)
     - [sprintf Флаги](#sprintf-флаги)
